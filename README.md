@@ -4,7 +4,7 @@ This is a dataset of an "opinion graph" for a poll on the 2016 US presidential e
 ## graphml & gml
 
 + Vertex attributes
-  - id
+  - id ("label" = id + 1)
   - Opinion text
   - Inferred group label
 + Edge attribute
