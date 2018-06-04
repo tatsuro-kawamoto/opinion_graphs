@@ -11,7 +11,7 @@ This is a dataset of an "opinion graph" for a poll on the 2016 US presidential e
   - Edge label ("+1", "-1", "0")
 
 This is a dataset after the edges are "neutralized." 
-A "0"  edge represents a neutral edges, which was originally a "-1" edge.
+"0" edges represent neutral edges, which were "-1" edges originally.
 
 ## Data collection details
 The data were collected by an online survey system that one of the authors implemented.
