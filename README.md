@@ -17,7 +17,7 @@ This is a dataset after the edges are "neutralized."
 The data were collected by an online survey system that one of the authors implemented.
 - A significant fraction of data were collected from the people who visited University of Nevada, Las Vegas on Oct. 18th and 19th, which are the day before and the day of the final presidential debate.
 - The dataset contains no personal information of the respondents.
-- 12 opinions are the seed opinions that are initially set before the poll.
+- 12 opinions are the seed opinions that were initially set before the poll.
 - The poll was conducted personally by one of the authors. No financial or political support was involved.
 
 ## Online survey system
