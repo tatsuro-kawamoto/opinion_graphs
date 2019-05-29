@@ -4,6 +4,7 @@ This is a collection of "opinion graphs" that were collected via our open-ended 
 
 ## List of the datasets
 - 2016 US presidential election
+- 2016 survey focussing on graduates of the Faculty of Education of a japanes university
 
 
 ## Citation
