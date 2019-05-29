@@ -1,6 +1,6 @@
 # Opinion graphs
 
-This is a collection of "opinion graphs" that are collected via our open-ended survey framework. 
+This is a collection of "opinion graphs" that were collected via our open-ended survey framework. 
 
 ## List of the datasets
 - 2016 US presidential election
