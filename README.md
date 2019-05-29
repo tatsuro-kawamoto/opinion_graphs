@@ -1,29 +1,12 @@
-# 2016 US presidential election dataset
-This is a dataset of an "opinion graph" for a poll on the 2016 US presidential election.
+# Opinion graphs
 
-## graphml & gml
+This is a collection of "opinion graphs" that are collected via our open-ended survey framework. 
 
-+ Vertex attributes
-  - id ("label" = id + 1)
-  - Opinion text
-  - Inferred group label
-+ Edge attribute
-  - Edge label ("+1", "-1", "0")
+## List of the datasets
+- 2016 US presidential election
 
-This is a dataset after the edges are "neutralized." 
-"0" edges represent neutral edges, which were "-1" edges originally.
-
-## Data collection details
-The data were collected by an online survey system that one of the authors implemented.
-- A significant fraction of data were collected from the people who visited University of Nevada, Las Vegas on Oct. 18th and 19th, which are the day before and the day of the final presidential debate.
-- The dataset contains no personal information of the respondents.
-- 12 opinions are the seed opinions that were initially set before the poll.
-- The poll was conducted personally by one of the authors. No financial or political support was involved.
-
-## Online survey system
-http://voteclustering.org
-
-This version of voteclustering is no longer updated. (A latter version is being actively updated elsewhere!)
 
 ## Citation
-Tatsuro Kawamoto and Takaaki Aoki, "Graph-based classification of opinions in large-scale surveys" (2018).
+Please cite the following article when you use this dataset and contents herein. 
+
+[1] Tatsuro Kawamoto and Takaaki Aoki, "Democratic summary of public opinions in free-response surveys," to appear (2019).
