@@ -1,16 +1,15 @@
-# 2016 survey focussing on the graduates of the Faculty of a Japanese university
-This is a dataset of an "opinion graph" for a survey focussing on the graduates of the Faculty of a Japanese university.
+# Faculty survey
+The datasets of opinion graphs of a survey focusing on the graduates of the Faculty of Education at a university in Japan.
 
 
-## Files and questions
-The questions we asked are the following:
+## Questions
+Questions asked in the survey:
 * What is your career? (Q1)
 * What reason made you choose your current job? (Q2)
 * What is the most valuable experience that you will take away with you from your time at the university? (Q3)
 
-There are three graphml files for each question.
-
-## graphml (data format)
+## graphml
+Three `.graphml` files, corresponding to the three questions asked in the survey.
 
 + Vertex attributes
   - id
@@ -18,19 +17,14 @@ There are three graphml files for each question.
 + Edge attribute
   - Edge label ("+1", "-1")
 
-PersonID indicates the respondent in the series of the questions.
-The nodes whose PersonID is zero are the seed opinions that are initially set before the survey.
+PersonID is an identifier of each respondent in the series of questions.
+The nodes with PersonIDs equal to zero are the seed opinions that were initially set before the survey.
 
 ## Data collection details
-The data were collected by an online survey system that one of the authors implemented.
+The data were collected by an online survey system.
 
 - We announced the survey via postal mail to 3256 persons who graduated from the faculty between 2000 and 2016.
-- The dataset contains no personal information of the respondents.
-
-## Online survey system
-http://voteclustering.org
-
-This version of voteclustering is no longer updated. (A latter version is being actively updated elsewhere!)
+- The datasets contain no personal information of the respondents.
 
 ## Citation
 Please cite the following article when you use the datasets and contents herein. 
