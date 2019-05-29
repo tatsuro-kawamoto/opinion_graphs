@@ -7,6 +7,6 @@ This is a collection of "opinion graphs" that were collected via our open-ended 
 
 
 ## Citation
-Please cite the following article when you use this dataset and contents herein. 
+Please cite the following article when you use the datasets and contents herein. 
 
 [1] Tatsuro Kawamoto and Takaaki Aoki, "Democratic summary of public opinions in free-response surveys," to appear (2019).
