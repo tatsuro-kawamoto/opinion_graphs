@@ -1,6 +1,6 @@
-# Faculty survey
+# Faculty survey (2016)
 The datasets of opinion graphs of a survey focusing on the graduates of the Faculty of Education at a university in Japan.
-
+The survey was conducted in 2016.
 
 ## Questions
 Questions asked in the survey:
