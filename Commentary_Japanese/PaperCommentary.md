@@ -63,7 +63,7 @@
 論文では、２つの実証例を載せています。
 そのうちの一つが、2016年アメリカ大統領選挙です。
 
-**"#NeverHillary or #NeverTrump?"**というタイトルで、ウェブ上および、大統領ディベートの会場（ネバダ大学 ラスベガス校）での街頭アンケートによってデータを収集しました。
+"**#NeverHillary or #NeverTrump?**"というタイトルで、ウェブ上および、大統領ディベートの会場（ネバダ大学 ラスベガス校）での街頭アンケートによってデータを収集しました。
 
 ![USpresident2016_img](./figures/USpresident2016.jpeg "2016USpresidentialElection")
 > 2016年アメリカ大統領選のPresidential Debateの際、ネバダ大学ラスベガス校に設置されたCNNの特設スタジオ
